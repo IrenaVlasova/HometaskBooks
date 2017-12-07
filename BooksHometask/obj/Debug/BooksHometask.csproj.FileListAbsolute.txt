@@ -1,0 +1,7 @@
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\bin\Debug\BooksHometask.exe.config
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\bin\Debug\BooksHometask.exe
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\bin\Debug\BooksHometask.pdb
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\obj\Debug\BooksHometask.csproj.CoreCompileInputs.cache
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\obj\Debug\BooksHometask.exe
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\obj\Debug\BooksHometask.pdb
+C:\Users\Iryna\source\repos\BooksHometask\BooksHometask\obj\Debug\BooksHometask.csprojResolveAssemblyReference.cache
